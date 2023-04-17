@@ -45,22 +45,7 @@ footer{
 }
 /*PRODUCTOS*/
 
-.prod{
-    padding: 0px;
-}
-section{
-    display: flex;
-    justify-content: center;
-    
-}
-section div{
-    display: flex;
-    padding: 10px;
-    flex-direction: column;
-    justify-content: space-around;
-    align-items: center;
-    text-align: center;
-}
+
 
 /*SEDES*/
 /*SOBRE NOSOTROS*/
